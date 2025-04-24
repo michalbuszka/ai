@@ -18,14 +18,21 @@ namespace RuchyBrowna
     public partial class MainWindow : Window
     {
         public Wykres wykres;
-        public BrownMotion motion = new ();
+        public MarcovMotion motion = new();
 
         public MainWindow()
         {
             InitializeComponent();
             wykres = new Wykres();
-            wykres.DrawChart(motion.data);
-            DataContext = wykres; // albo this.DataContext = wykres;
+
+            motion.GenerateMarcov();
+            motion.GenerateBrown();
+
+            wykres.DrawChart(wykres.marcovModel, "Proces Marcova", motion.MarcovData);
+            wykres.DrawChart(wykres.brownModel, "Proces Browna", motion.BrownData);
+            motion.Generate2DMarcov(); 
+            wykres.DrawChart2D(wykres.marcov2DModel, "Proces Marcova 2D", motion.dwoDMarcovDataX, motion.dwoDMarcovDataY); // dodaj to
+            DataContext = wykres;
         }
     }
 }

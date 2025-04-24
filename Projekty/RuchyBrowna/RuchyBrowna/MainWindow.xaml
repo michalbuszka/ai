@@ -6,10 +6,15 @@
         xmlns:local="clr-namespace:RuchyBrowna"
         xmlns:oxy="http://oxyplot.org/wpf" x:Class="RuchyBrowna.MainWindow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Proces Browna i Marcova" Height="900" Width="800">
     <Grid>
-
-        <oxy:PlotView Model="{Binding MyModel}" />
-
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <oxy:PlotView Grid.Row="0" Model="{Binding marcovModel}" />
+        <oxy:PlotView Grid.Row="1" Model="{Binding brownModel}" />
+        <oxy:PlotView Grid.Row="2" Model="{Binding marcov2DModel}" />
     </Grid>
 </Window>

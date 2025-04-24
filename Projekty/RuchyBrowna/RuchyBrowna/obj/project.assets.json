@@ -5500,11 +5500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\micha\\Projekty\\RuchyBrowna\\RuchyBrowna\\RuchyBrowna.csproj",
+      "projectUniqueName": "C:\\Users\\micha\\Studia\\AI\\Projekty\\RuchyBrowna\\RuchyBrowna\\RuchyBrowna.csproj",
       "projectName": "RuchyBrowna",
-      "projectPath": "C:\\Users\\micha\\Projekty\\RuchyBrowna\\RuchyBrowna\\RuchyBrowna.csproj",
+      "projectPath": "C:\\Users\\micha\\Studia\\AI\\Projekty\\RuchyBrowna\\RuchyBrowna\\RuchyBrowna.csproj",
       "packagesPath": "C:\\Users\\micha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\micha\\Projekty\\RuchyBrowna\\RuchyBrowna\\obj\\",
+      "outputPath": "C:\\Users\\micha\\Studia\\AI\\Projekty\\RuchyBrowna\\RuchyBrowna\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\micha\\AppData\\Roaming\\NuGet\\NuGet.Config",

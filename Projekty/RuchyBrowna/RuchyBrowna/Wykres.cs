@@ -1,27 +1,33 @@
-﻿using OxyPlot.Series;
-using OxyPlot;
+﻿using OxyPlot;
+using OxyPlot.Series;
 
 public class Wykres
 {
-    public PlotModel MyModel { get; set; }
+    public PlotModel marcovModel { get; set; } = new PlotModel();
+    public PlotModel brownModel { get; set; } = new PlotModel();
+    public PlotModel marcov2DModel { get; set; } = new PlotModel();
 
-    public Wykres()
+    public void DrawChart(PlotModel model, string title, double[] data)
     {
-        MyModel = new PlotModel();
+        model.Title = title;
+        var series = new LineSeries();
+        for (int i = 0; i < data.Length; i++)
+        {
+            series.Points.Add(new DataPoint(i, data[i]));
+        }
+        model.Series.Clear();
+        model.Series.Add(series);
     }
 
-    public void DrawChart(double[] data)
+    public void DrawChart2D(PlotModel model, string title, double[] xData, double[] yData)
     {
-        MyModel.Title = "Wykres liniowy";
-        MyModel.Series.Clear();
-        LineSeries lineSeries = new LineSeries();
-        lineSeries.Title = "Dane";
-        lineSeries.MarkerType = MarkerType.Circle;
-        lineSeries.MarkerSize = 4;
-        lineSeries.MarkerStroke = OxyColors.White;
-        for (int i = 0; i < data.Length; i++) {
-            lineSeries.Points.Add(new DataPoint(i, data[i]));   
+        model.Title = title;
+        var series = new LineSeries();
+        for (int i = 0; i < xData.Length; i++)
+        {
+            series.Points.Add(new DataPoint(xData[i], yData[i]));
         }
-        MyModel.Series.Add(lineSeries);
+        model.Series.Clear();
+        model.Series.Add(series);
     }
 }
