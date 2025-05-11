@@ -1,0 +1,15 @@
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\bin\Debug\net8.0\JobSchedulingProblem.exe
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\bin\Debug\net8.0\JobSchedulingProblem.deps.json
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\bin\Debug\net8.0\JobSchedulingProblem.runtimeconfig.json
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\bin\Debug\net8.0\JobSchedulingProblem.dll
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\bin\Debug\net8.0\JobSchedulingProblem.pdb
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\JobSchedulingProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\JobSchedulingProblem.AssemblyInfoInputs.cache
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\JobSchedulingProblem.AssemblyInfo.cs
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\JobSchedulingProblem.csproj.CoreCompileInputs.cache
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\JobSchedulingProblem.sourcelink.json
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\JobSchedulingProblem.dll
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\refint\JobSchedulingProblem.dll
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\JobSchedulingProblem.pdb
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\JobSchedulingProblem.genruntimeconfig.cache
+C:\Users\micha\Studia\AI\Projekty\JobSchedulingProblem\JobSchedulingProblem\obj\Debug\net8.0\ref\JobSchedulingProblem.dll
