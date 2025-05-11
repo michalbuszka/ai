@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JobSchedulingProblem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eac5cbb6a99e0a15649368d8589d6c7b2ea5e1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6eb3ade046fb8307d85d0ae5b75f0ca9269701cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("JobSchedulingProblem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JobSchedulingProblem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
