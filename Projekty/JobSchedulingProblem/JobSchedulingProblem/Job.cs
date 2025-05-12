@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace JobSchedulingProblem
 {
-    public class Job
+    public interface IJob
+    {
+        public float timeDuration { get; set; }
+        public int k { get; set; } 
+        public float startTime { get; set; }
+        public float endTime { get; set; }
+    }
+    public class Job : IJob
     {
         public float timeDuration { get; set; }
         public int k { get; set; } //indeks procesora
