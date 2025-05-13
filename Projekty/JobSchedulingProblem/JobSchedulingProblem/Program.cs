@@ -11,20 +11,12 @@ namespace Program
         private static int n = 100; //liczba zadań
         private static float tMax = 10000; //zadany maskymalny czas
         private static float maxJobTime = 100;
+        private static Scheduler scheduler;
+        private static SimulatedAnnealing simulatedAnnealing;
         private static void RandomizeJobs ()
         {
             for (int i = 0; i < n; i++)
                 jobs.Add(new Job((float)new Random().NextDouble() * maxJobTime));
-        }
-        public static float f () //funkcja zwracająca czas wykonania wszystkich zadań na wszystkich procesorach
-        {
-            float maxTime = 0;
-            foreach(IProcesor procesor in procesors)
-            {
-                if (procesor.t > maxTime)
-                    maxTime = procesor.t;
-            }
-            return maxTime;
         }
         public static void Main(string[] args)
         {
@@ -34,18 +26,13 @@ namespace Program
                 procesors[i] = new Procesor(i);
             }
             RandomizeJobs();
-            Sheduler.Schedule(jobs, procesors);
-            //foreach (Job job in jobs)
-            //{
-            //    job.DisplayInfo();
-            //}
-            Console.WriteLine($"Czas wykonania wszystkich zadań na wszystkich procesorach: {f()}" );
-            int random = new Random().Next(0, jobs.Count);
-            IJob job1 = jobs.ToArray()[random];
-            random = new Random().Next(0, jobs.Count);
-            IJob job2 = jobs.ToArray()[random];
-            Sheduler.ReplaceJobs(jobs, procesors, job1, job2);
-            Console.WriteLine($"Czas wykonania wszystkich zadań na wszystkich procesorach v2: {f()}");
+            scheduler = new Scheduler(jobs, procesors);
+            simulatedAnnealing = new SimulatedAnnealing(jobs, scheduler);
+            simulatedAnnealing.SimulatedAnnealingMethod();
+            foreach (Job job in jobs)
+            {
+                job.DisplayInfo();
+            }
         }
     }
 }

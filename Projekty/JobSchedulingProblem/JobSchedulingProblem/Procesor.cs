@@ -10,7 +10,8 @@ namespace JobSchedulingProblem
     {
         public void AddJob(IJob job);
         public void RemoveJob(IJob job);
-        public float t { get; set; }
+        public double t { get; set; }
+        public int index { get; set; }
         public void RecalculateJobs();
     }
     public class Procesor : IProcesor
@@ -19,9 +20,9 @@ namespace JobSchedulingProblem
         {
             this.index = index;
         }
-        private int index;
+        public int index { get; set; } 
         private List<IJob> jobs = new List<IJob>();
-        public float t { get; set;  } //obecny czas
+        public double t { get; set;  } //obecny czas
         public void AddJob(IJob job)
         {
             job.k = index;
@@ -33,7 +34,10 @@ namespace JobSchedulingProblem
         public void RemoveJob (IJob job)
         {
             if (jobs.Contains(job))
+            {
                 jobs.Remove(job);
+                RecalculateJobs();
+            }
         }
         public void RecalculateJobs ()
         {

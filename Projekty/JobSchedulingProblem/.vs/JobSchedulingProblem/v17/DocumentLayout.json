@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|c:\\users\\micha\\studia\\ai\\projekty\\jobschedulingproblem\\jobschedulingproblem\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|solutionrelative:jobschedulingproblem\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|c:\\users\\micha\\studia\\ai\\projekty\\jobschedulingproblem\\jobschedulingproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|solutionrelative:jobschedulingproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|c:\\users\\micha\\studia\\ai\\projekty\\jobschedulingproblem\\jobschedulingproblem\\sheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|solutionrelative:jobschedulingproblem\\sheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|c:\\users\\micha\\studia\\ai\\projekty\\jobschedulingproblem\\jobschedulingproblem\\simulatedannealing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|solutionrelative:jobschedulingproblem\\simulatedannealing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|c:\\users\\micha\\studia\\ai\\projekty\\jobschedulingproblem\\jobschedulingproblem\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|solutionrelative:jobschedulingproblem\\scheduler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|c:\\users\\micha\\studia\\ai\\projekty\\jobschedulingproblem\\jobschedulingproblem\\procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|solutionrelative:jobschedulingproblem\\procesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|c:\\users\\micha\\studia\\ai\\projekty\\jobschedulingproblem\\jobschedulingproblem\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|solutionrelative:jobschedulingproblem\\job.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|c:\\users\\micha\\studia\\ai\\projekty\\jobschedulingproblem\\jobschedulingproblem\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A85F62E5-3073-49E6-86CA-A97466A30718}|JobSchedulingProblem\\JobSchedulingProblem.csproj|solutionrelative:jobschedulingproblem\\solution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Sheduler.cs",
-              "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Sheduler.cs",
-              "RelativeDocumentMoniker": "JobSchedulingProblem\\Sheduler.cs",
-              "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Sheduler.cs",
-              "RelativeToolTip": "JobSchedulingProblem\\Sheduler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAUwBIAAABcAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Solution.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Solution.cs",
+              "RelativeDocumentMoniker": "JobSchedulingProblem\\Solution.cs",
+              "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Solution.cs",
+              "RelativeToolTip": "JobSchedulingProblem\\Solution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:57:27.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SimulatedAnnealing.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\SimulatedAnnealing.cs",
+              "RelativeDocumentMoniker": "JobSchedulingProblem\\SimulatedAnnealing.cs",
+              "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\SimulatedAnnealing.cs",
+              "RelativeToolTip": "JobSchedulingProblem\\SimulatedAnnealing.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T19:14:18.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Scheduler.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Scheduler.cs",
+              "RelativeDocumentMoniker": "JobSchedulingProblem\\Scheduler.cs",
+              "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Scheduler.cs",
+              "RelativeToolTip": "JobSchedulingProblem\\Scheduler.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADgv08AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T22:41:34.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Procesor.cs",
               "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Procesor.cs",
               "RelativeDocumentMoniker": "JobSchedulingProblem\\Procesor.cs",
               "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Procesor.cs",
               "RelativeToolTip": "JobSchedulingProblem\\Procesor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T22:20:22.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Job.cs",
               "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Job.cs",
               "RelativeDocumentMoniker": "JobSchedulingProblem\\Job.cs",
               "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Job.cs",
               "RelativeToolTip": "JobSchedulingProblem\\Job.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwB4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T16:07:18.101Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Program.cs",
               "RelativeDocumentMoniker": "JobSchedulingProblem\\Program.cs",
               "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\JobSchedulingProblem\\JobSchedulingProblem\\Program.cs",
               "RelativeToolTip": "JobSchedulingProblem\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAABcAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T16:05:46.036Z",
               "EditorCaption": ""

@@ -8,17 +8,17 @@ namespace JobSchedulingProblem
 {
     public interface IJob
     {
-        public float timeDuration { get; set; }
+        public double timeDuration { get; set; }
         public int k { get; set; } 
-        public float startTime { get; set; }
-        public float endTime { get; set; }
+        public double startTime { get; set; }
+        public double endTime { get; set; }
     }
     public class Job : IJob
     {
-        public float timeDuration { get; set; }
+        public double timeDuration { get; set; }
         public int k { get; set; } //indeks procesora
-        public float startTime { get; set; }
-        public float endTime { get; set; }
+        public double startTime { get; set; }
+        public double endTime { get; set; }
         public Job (float timeDuration)
         {
             this.timeDuration = timeDuration;
@@ -29,6 +29,7 @@ namespace JobSchedulingProblem
             Console.WriteLine($"Processor: {k}");
             Console.WriteLine($"Start time: {startTime}");
             Console.WriteLine($"End time: {endTime}");
+            Console.WriteLine($"Duration: {timeDuration}");
         }
     }
 }
