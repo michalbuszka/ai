@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\micha\\Studia\\AI\\Projekty\\AlgorytmGenetyczny\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D38302F4-0283-4E1B-BE07-AAC7572FD72B}|AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj|c:\\users\\micha\\studia\\ai\\projekty\\algorytmgenetyczny\\algorytmgenetyczny\\solutiuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D38302F4-0283-4E1B-BE07-AAC7572FD72B}|AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj|solutionrelative:algorytmgenetyczny\\solutiuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D38302F4-0283-4E1B-BE07-AAC7572FD72B}|AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj|c:\\users\\micha\\studia\\ai\\projekty\\algorytmgenetyczny\\algorytmgenetyczny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D38302F4-0283-4E1B-BE07-AAC7572FD72B}|AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj|solutionrelative:algorytmgenetyczny\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D38302F4-0283-4E1B-BE07-AAC7572FD72B}|AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj|c:\\users\\micha\\studia\\ai\\projekty\\algorytmgenetyczny\\algorytmgenetyczny\\solutiuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D38302F4-0283-4E1B-BE07-AAC7572FD72B}|AlgorytmGenetyczny\\AlgorytmGenetyczny.csproj|solutionrelative:algorytmgenetyczny\\solutiuon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Solutiuon.cs",
               "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\Solutiuon.cs",
               "RelativeDocumentMoniker": "AlgorytmGenetyczny\\Solutiuon.cs",
               "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\Solutiuon.cs*",
               "RelativeToolTip": "AlgorytmGenetyczny\\Solutiuon.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T22:01:18.057Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\Program.cs",
               "RelativeDocumentMoniker": "AlgorytmGenetyczny\\Program.cs",
-              "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\Program.cs",
-              "RelativeToolTip": "AlgorytmGenetyczny\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\AlgorytmGenetyczny\\AlgorytmGenetyczny\\Program.cs*",
+              "RelativeToolTip": "AlgorytmGenetyczny\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-19T21:56:06.173Z",
               "EditorCaption": ""

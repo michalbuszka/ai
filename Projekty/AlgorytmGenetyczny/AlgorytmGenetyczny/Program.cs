@@ -1,4 +1,5 @@
-﻿using System;
+﻿using AlgorytmGenetyczny;
+using System;
 
 namespace Program
 {
@@ -6,7 +7,10 @@ namespace Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("DZIAL!");
+            Solutiuon s1 = new Solutiuon(10);
+            Solutiuon s2 = new Solutiuon(10);
+            s1.Display();
+            s2.Display();
         }
     }
 }
