@@ -22,16 +22,16 @@ namespace AlgorytmGenetyczny
             }
             return returnArray;
         }
-        private int getFitness ()
+        private float getFitness ()
         {
             int counter = 0;
             foreach (int gen in Geny)
             {
                 counter += gen;
             }
-            return counter;
+            return (float)counter / Geny.Length;
         }
-        public int Fitness { 
+        public float Fitness { 
             get 
             {
                 return getFitness(); 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgorytmGenetyczny")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f7ddce08df1519f83210b2fb5c5eaddbf2e2062")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04926c91b29a33591ff65d972388c56c6d3e430f")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgorytmGenetyczny")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgorytmGenetyczny")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
