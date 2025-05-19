@@ -1,0 +1,15 @@
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\net8.0\AlgorytmGenetyczny.exe
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\net8.0\AlgorytmGenetyczny.deps.json
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\net8.0\AlgorytmGenetyczny.runtimeconfig.json
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\net8.0\AlgorytmGenetyczny.dll
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\bin\Debug\net8.0\AlgorytmGenetyczny.pdb
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\AlgorytmGenetyczny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\AlgorytmGenetyczny.AssemblyInfoInputs.cache
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\AlgorytmGenetyczny.AssemblyInfo.cs
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\AlgorytmGenetyczny.csproj.CoreCompileInputs.cache
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\AlgorytmGenetyczny.sourcelink.json
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\AlgorytmGenetyczny.dll
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\refint\AlgorytmGenetyczny.dll
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\AlgorytmGenetyczny.pdb
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\AlgorytmGenetyczny.genruntimeconfig.cache
+C:\Users\micha\Studia\AI\Projekty\AlgorytmGenetyczny\AlgorytmGenetyczny\obj\Debug\net8.0\ref\AlgorytmGenetyczny.dll

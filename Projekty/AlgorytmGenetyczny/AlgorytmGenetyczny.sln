@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorytmGenetyczny", "AlgorytmGenetyczny\AlgorytmGenetyczny.csproj", "{D38302F4-0283-4E1B-BE07-AAC7572FD72B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D38302F4-0283-4E1B-BE07-AAC7572FD72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D38302F4-0283-4E1B-BE07-AAC7572FD72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D38302F4-0283-4E1B-BE07-AAC7572FD72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D38302F4-0283-4E1B-BE07-AAC7572FD72B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C1EDE15-A8F0-412C-A7E4-44D276DE2DD1}
+	EndGlobalSection
+EndGlobal
