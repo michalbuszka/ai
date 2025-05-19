@@ -11,6 +11,8 @@ namespace Program
             Solutiuon s2 = new Solutiuon(10);
             s1.Display();
             s2.Display();
+            s1.Crossover(s2, 2, 2);
+            s1.Display();
         }
     }
 }
