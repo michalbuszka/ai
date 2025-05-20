@@ -1,0 +1,15 @@
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\bin\Debug\net8.0\OrzelReszka.exe
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\bin\Debug\net8.0\OrzelReszka.deps.json
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\bin\Debug\net8.0\OrzelReszka.runtimeconfig.json
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\bin\Debug\net8.0\OrzelReszka.dll
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\bin\Debug\net8.0\OrzelReszka.pdb
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\OrzelReszka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\OrzelReszka.AssemblyInfoInputs.cache
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\OrzelReszka.AssemblyInfo.cs
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\OrzelReszka.csproj.CoreCompileInputs.cache
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\OrzelReszka.sourcelink.json
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\OrzelReszka.dll
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\refint\OrzelReszka.dll
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\OrzelReszka.pdb
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\OrzelReszka.genruntimeconfig.cache
+C:\Users\micha\Studia\AI\Projekty\OrzelReszka\OrzelReszka\obj\Debug\net8.0\ref\OrzelReszka.dll
