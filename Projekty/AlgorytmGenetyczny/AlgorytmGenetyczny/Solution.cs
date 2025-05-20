@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 
 namespace AlgorytmGenetyczny
 {
-    public class Solutiuon
+    public class Solution
     {
         private int IlośćGenów;
-        private int[] Geny;
+        public int[] Geny { get; private set; }
         public int[] GenySubstring (int start, int length)
         {
             if (start + length > Geny.Length)
@@ -36,12 +36,20 @@ namespace AlgorytmGenetyczny
             {
                 return getFitness(); 
             }
-        }    
-        public void Crossover (Solutiuon s1, int start, int length)
-        {
-            for (int i = 0; i < length; i++)
-                Geny[i + start] = Geny[i];
         }
+        public Solution Crossover(Solution other)
+        {
+            Solution child = new Solution(Geny.Length);
+            Random random = new Random();
+            int length = random.Next(1, Geny.Length); 
+            int start = random.Next(0, Geny.Length - length + 1); 
+            for (int i = 0; i < Geny.Length; i++)
+            {
+                child.Geny[i] = (i >= start && i < start + length) ? other.Geny[i] : this.Geny[i];
+            }
+            return child;
+        }
+
         public void Random ()
         {
             Geny = new int[IlośćGenów];
@@ -59,7 +67,7 @@ namespace AlgorytmGenetyczny
                 Console.Write(g + " ");
             }
         }
-        public Solutiuon(int ilośćGenów) 
+        public Solution(int ilośćGenów) 
         {
             this.IlośćGenów = ilośćGenów;
             Geny = new int[IlośćGenów];
