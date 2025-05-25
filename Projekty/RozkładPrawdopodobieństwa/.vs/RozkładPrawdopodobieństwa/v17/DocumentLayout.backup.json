@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\micha\\Studia\\AI\\Projekty\\Rozk\u0142adPrawdopodobie\u0144stwa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{129D703C-371C-4A02-9777-054C65975952}|Rozk\u0142adPrawdopodobie\u0144stwa\\Rozk\u0142adPrawdopodobie\u0144stwa.csproj|c:\\users\\micha\\studia\\ai\\projekty\\rozk\u0142adprawdopodobie\u0144stwa\\rozk\u0142adprawdopodobie\u0144stwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129D703C-371C-4A02-9777-054C65975952}|Rozk\u0142adPrawdopodobie\u0144stwa\\Rozk\u0142adPrawdopodobie\u0144stwa.csproj|solutionrelative:rozk\u0142adprawdopodobie\u0144stwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{129D703C-371C-4A02-9777-054C65975952}|Rozk\u0142adPrawdopodobie\u0144stwa\\Rozk\u0142adPrawdopodobie\u0144stwa.csproj|c:\\users\\micha\\studia\\ai\\projekty\\rozk\u0142adprawdopodobie\u0144stwa\\rozk\u0142adprawdopodobie\u0144stwa\\gammafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{129D703C-371C-4A02-9777-054C65975952}|Rozk\u0142adPrawdopodobie\u0144stwa\\Rozk\u0142adPrawdopodobie\u0144stwa.csproj|solutionrelative:rozk\u0142adprawdopodobie\u0144stwa\\gammafunction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GammaFunction.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\Rozk\u0142adPrawdopodobie\u0144stwa\\Rozk\u0142adPrawdopodobie\u0144stwa\\GammaFunction.cs",
+              "RelativeDocumentMoniker": "Rozk\u0142adPrawdopodobie\u0144stwa\\GammaFunction.cs",
+              "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\Rozk\u0142adPrawdopodobie\u0144stwa\\Rozk\u0142adPrawdopodobie\u0144stwa\\GammaFunction.cs",
+              "RelativeToolTip": "Rozk\u0142adPrawdopodobie\u0144stwa\\GammaFunction.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:57:44.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\micha\\Studia\\AI\\Projekty\\Rozk\u0142adPrawdopodobie\u0144stwa\\Rozk\u0142adPrawdopodobie\u0144stwa\\Program.cs",
+              "RelativeDocumentMoniker": "Rozk\u0142adPrawdopodobie\u0144stwa\\Program.cs",
+              "ToolTip": "C:\\Users\\micha\\Studia\\AI\\Projekty\\Rozk\u0142adPrawdopodobie\u0144stwa\\Rozk\u0142adPrawdopodobie\u0144stwa\\Program.cs*",
+              "RelativeToolTip": "Rozk\u0142adPrawdopodobie\u0144stwa\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T18:55:37.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

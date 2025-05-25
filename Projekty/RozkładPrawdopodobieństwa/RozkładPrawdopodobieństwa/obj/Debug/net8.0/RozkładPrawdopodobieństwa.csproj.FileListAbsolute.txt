@@ -1,0 +1,15 @@
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\bin\Debug\net8.0\RozkładPrawdopodobieństwa.exe
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\bin\Debug\net8.0\RozkładPrawdopodobieństwa.deps.json
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\bin\Debug\net8.0\RozkładPrawdopodobieństwa.runtimeconfig.json
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\bin\Debug\net8.0\RozkładPrawdopodobieństwa.dll
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\bin\Debug\net8.0\RozkładPrawdopodobieństwa.pdb
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\RozkładPrawdopodobieństwa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\RozkładPrawdopodobieństwa.AssemblyInfoInputs.cache
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\RozkładPrawdopodobieństwa.AssemblyInfo.cs
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\RozkładPrawdopodobieństwa.csproj.CoreCompileInputs.cache
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\RozkładPrawdopodobieństwa.sourcelink.json
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\RozkładPrawdopodobieństwa.dll
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\refint\RozkładPrawdopodobieństwa.dll
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\RozkładPrawdopodobieństwa.pdb
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\RozkładPrawdopodobieństwa.genruntimeconfig.cache
+C:\Users\micha\Studia\AI\Projekty\RozkładPrawdopodobieństwa\RozkładPrawdopodobieństwa\obj\Debug\net8.0\ref\RozkładPrawdopodobieństwa.dll
